@@ -25,7 +25,7 @@ oau-ns/
 │   ├── OAUToken.sol          # ERC-20 token contract
 │   └── OAUNameRegistry.sol   # ENS-style name registry
 ├── script/
-│   └── DeployOAUNS.s.sol     # Deployment script
+│   └── DeployOAUNS.s.sol     # Deployment scripts
 ├── test/
 │   ├── OAUToken.t.sol        # Token tests
 │   └── OAUNameRegistry.t.sol # Registry tests
